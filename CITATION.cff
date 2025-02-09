@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as follows."
+title: "DINOv2: Learning Robust Visual Features without Supervision"
+authors:
+  - family-names: "Oquab"
+    given-names: "Maxime"
+  - family-names: "Darcet"
+    given-names: "Timothée"
+  - family-names: "Moutakanni"
+    given-names: "Theo"
+date-released: "2023"
+version: "1.0.0"
+doi: "10.48550/arXiv.2304.07193"
+repository-code: "https://github.com/facebookresearch/dinov2"
+license: "MIT"
